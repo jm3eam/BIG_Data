@@ -6,5 +6,6 @@ request trends, distribution across neighborhoods, and
 completion time patterns. Using data-driven techniques,
 we aim to streamline resource allocation, enhance public
 service delivery, and improve the quality of life for
-Miami-Dade County residents
-Group memebers Laura Cerpero & Charytin Chacon
+Miami-Dade County residents.
+  
+    #Group memebers Laura Cerpero & Charytin Chacon
